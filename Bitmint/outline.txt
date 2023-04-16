@@ -1,0 +1,18 @@
+=== Coin security layers ===
+[0] (Asymmetric Signing) To validate that the coins were once minted
+// [-] (Asymetric Encryption) To show ownership of the coin
+
+=== Coin Idea #1 ===
+- There has to be hash or somthing that is encrypted by someone's private and public keys
+- The coins must become invalid once used
+- There has to be something to validate the hash
+- I need to prevent stealing of the coins
+- The coin must also have a sort of private key that is held
+- The coin could have some sort of cryptographic history to prevent the taking and regifting of the coins
+- A payment transaction must have some sort of cryptographic proof
+- A payment must have a encrypted trascript that cannot be tampered with
+
+=== Coin Idea #2 ===
+- Expensive to transfer coin's ownership
+- You need to guess a salt for a hash that encrypts the signature
+- The coins must become invalid once used

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAgTXyrouiRmhK5DW4fay9ZsYZsqmWwwsRzMSAhjuM0ZB5a2Rr5tHvdCtLS5P6cfMB/T8t89oIs63NRHo7g9JA==",
+  "success": true,
+  "projectFilePath": "/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/Bitmint.csproj",
+  "expectedPackageFiles": [
+    "/home/greenchild/.nuget/packages/bouncycastle.cryptography/2.1.1/bouncycastle.cryptography.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

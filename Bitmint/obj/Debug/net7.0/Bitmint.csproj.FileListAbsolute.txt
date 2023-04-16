@@ -1,0 +1,15 @@
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/bin/Debug/net7.0/Bitmint
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/bin/Debug/net7.0/Bitmint.deps.json
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/bin/Debug/net7.0/Bitmint.runtimeconfig.json
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/bin/Debug/net7.0/Bitmint.dll
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/bin/Debug/net7.0/Bitmint.pdb
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.csproj.AssemblyReference.cache
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.GeneratedMSBuildEditorConfig.editorconfig
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.AssemblyInfoInputs.cache
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.AssemblyInfo.cs
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.csproj.CoreCompileInputs.cache
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.dll
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/refint/Bitmint.dll
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.pdb
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/Bitmint.genruntimeconfig.cache
+/media/greenchild/Gata/Ethan/Home/Github/Bitmint/Bitmint/obj/Debug/net7.0/ref/Bitmint.dll
